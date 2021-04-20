@@ -8,5 +8,9 @@
   },
   "dependencies": {
     "kafkajs": "^1.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "sucrase": "^3.18.1"
   }
 }
